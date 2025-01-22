@@ -1,0 +1,419 @@
+.parent{
+   margin: 0px;
+   padding: 0px;
+  
+   font-size: 16px;
+}
+
+
+
+
+.first{
+    background: url(/zomato\ main.png);
+gap: 1rem;
+margin: 0px;
+padding: 0px;
+}
+.new{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    gap: 1rem;
+    width: 50%;
+    margin: 50px auto; 
+    padding-left: 100px;
+    align-items: center;
+}
+.new-a{
+    padding: 10px;
+    border: solid;
+    background-color: #fff;
+    width: 100%;
+    border-radius: 6px;
+    border-width: 1px;
+    margin-bottom: 50px;
+   padding-left: 100px;
+}
+
+.child{
+    margin: 0px;
+    padding: 0px; 
+
+}
+.child  ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    color: #fff;
+    gap: 2rem;
+    list-style: none;
+    font-size: 15px;
+    padding-right: 200px;
+    margin: 0px;
+    padding-top: 20px;
+}
+.child a{
+    text-decoration: none;
+    margin: 0px;
+}
+.sec-child{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    font-size: 15px;
+}
+.sec-child h3{
+    font-size: 50px;
+    
+}
+.sec{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    gap: 1rem;
+    width: 70%;
+    margin: 40px auto; 
+}
+.sec h3, .sec p{
+padding-left: 10px;
+}
+.order{
+    border: solid;
+    border-color: rgb(232, 232, 232);
+    border-width: 1px;
+    border-radius:6px ;
+    cursor: pointer;
+    
+}
+.dining{
+    border: solid;
+    border-color: rgb(232, 232, 232);
+    border-width: 1px;
+    border-radius:6px ;
+    cursor: pointer;
+    
+}
+.events{
+    border: solid;
+    border-color: rgb(232, 232, 232);
+    border-width: 1px;
+    border-radius:6px ; 
+    cursor: pointer;
+    
+}
+.order img{
+   
+    width: 100%;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    
+}
+
+.dining img{
+    width: 100%;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+.events img{
+    width: 100%;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+.third{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    
+    width: 70%;
+    margin: 40px auto; 
+   
+}
+.fourth{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    gap: 1rem;
+    width: 70%;
+    margin: 40px auto; 
+    cursor: pointer;
+    
+   
+}
+.one{
+    background-image: url(/zomato\ 5.png);
+    color: #fff;
+    padding-bottom: 0px;
+    padding-top: 80px;
+    line-height: 1px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+}
+.two{
+    background-image: url(/zomato\ 6.png);
+    color: #fff;
+    padding-bottom: 0px;
+    padding-top: 80px;
+    line-height: 1px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+}
+.three{
+    background-image: url(/zomato\ 7.png);
+    color: #fff;
+    padding-bottom: 0px;
+    padding-top: 80px;
+    line-height: 1px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+}
+.four{
+    background-image: url(/zomato\ 8.png);
+    color: #fff;
+    padding-bottom: 0px;
+    padding-top: 80px;
+    line-height: 1px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px; 
+    width: 100%;
+}
+.fifth{
+    display: flex;
+    
+    margin: 20px;
+    gap: 1rem;
+    width: 70%;
+    margin: 40px auto; 
+}
+.sixth{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: 40px auto; 
+    gap: 10px;
+}
+.a{
+    border: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 100%;
+    padding-left: 10px;
+    border-color: rgb(232, 232, 232);
+    cursor: pointer;
+}
+.b{
+    border: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 100%;
+    padding-left: 10px;
+    border-color: rgb(232, 232, 232);
+    cursor: pointer;
+}
+.c{
+    border: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 100%;
+    padding-left: 10px;
+    border-color: rgb(232, 232, 232);
+    cursor: pointer;
+}
+.seventh{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: 40px auto; 
+    gap: 10px;
+}
+.d{
+    border: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 100%;
+    padding-left: 10px;
+    border-color: rgb(232, 232, 232);
+    cursor: pointer;
+}
+.e{
+    border: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 100%;
+    padding-left: 10px;
+    border-color: rgb(232, 232, 232);
+    cursor: pointer;
+}
+.f{
+    border: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 100%;
+    padding-left: 10px;
+    border-color: rgb(232, 232, 232); 
+    cursor: pointer;
+}
+.eighth{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: 40px auto; 
+    gap: 10px;
+}
+.g{
+    border: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 100%;
+    padding-left: 10px;
+    cursor: pointer;
+    border-color: rgb(232, 232, 232); 
+}
+.h{
+    border: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 100%;
+    padding-left: 10px;
+    border-color: rgb(232, 232, 232); 
+    cursor: pointer;
+}
+.see{
+    border: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 100%;
+    padding-left: 10px;
+    border-color: rgb(232, 232, 232); 
+    cursor: pointer;
+}
+.other-parent{
+    gap: 3px;
+    margin: 0px;
+}
+.nineth{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: 40px auto; 
+    gap: 1rem;
+    background-color: rgb(250, 238, 223);
+}
+.nineth img{
+    width: 50%;
+    border-color: rgb(138, 126, 35);
+    align-items: center;
+    object-fit: contain;
+    padding-left: 100px;
+    height: 100%;
+}
+.j{
+    width: 70%; 
+}
+.l{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    
+}
+.m{
+    display: flex;
+    flex-direction: row;
+
+    margin: 10px;
+}
+.father{
+    display: flex;
+    flex-direction: column;
+}
+.first-wife{
+    display: flex;
+    flex-direction: row;
+    
+}
+.third-wife{
+    display: flex;
+    flex-direction: column;
+}
+.sec-wife{
+    justify-content: space-around;
+}
+.sec-wife button{
+    background-color: red;
+    border: none;
+    padding: 15px ;
+    border-radius: 6px;
+    width: 30%;
+}
+.sec-wife input{
+    padding: 10px ;
+    border-radius: 6px;
+    border: solid;
+    border-width: 1px;
+    padding-right: 40px;
+    margin-right: 20px;
+    width: 40%;
+    margin: 20px auto;
+}
+.fourth-wife{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    align-items: left;
+    padding-right: 50px;
+}
+.fifth-wife{
+   
+    flex-direction: row;
+    width: 50%;
+    align-items: left;
+}
+.all{
+    display: flex;
+    flex-direction: row;
+}
+.tenth{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    gap: 1rem;
+    margin: 40px auto; 
+    font-size: 16px;
+}
+.part-one{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    gap: 1rem;
+    width: 100%;
+    margin: 40px auto; 
+    cursor: pointer;
+}
+.part-two{
+    border: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 40px auto;
+    padding-left: 20px;
+}
+.Part-three{
+    border: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 40px auto;
+    padding-left: 20px;
+}
+.part-four{
+    border: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 40px auto;
+    padding-left: 20px;
+}
